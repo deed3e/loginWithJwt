@@ -1,2 +1,2 @@
 # loginWithJwt
-simple web to practice jwt 
+authenrizon with jwt in nodejs
